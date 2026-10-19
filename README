@@ -1,13 +1,9 @@
-Hello World!
-# My First GitHub Project
+## My Robot Research
 
-This is my first GitHub project.
+Research topic: Dual-arm robot trajectory planning.
 
-I am learning:
-- GitHub
-- Git
-- Clone
-- Commit
-- Push
-
-My future project: Dual-arm robot trajectory planning.
+Main modules:
+- Kinematics
+- RRT-Connect
+- Collision avoidance
+- Compliance compensation
