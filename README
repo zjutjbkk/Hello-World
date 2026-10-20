@@ -1,6 +1,21 @@
+
+# My First GitHub Project
+
+This is my first GitHub project.
+
+## What I Learned
+
+- Fork
+- Clone
+- Commit
+- Push
+- Branch
+- Merge
+
 ## My Robot Research
 
-Research topic: Dual-arm robot trajectory planning.
+Research topic:
+Dual-arm robot trajectory planning.
 
 Main modules:
 - Kinematics
